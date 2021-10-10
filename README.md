@@ -1,7 +1,7 @@
 # NewsClassifier
 Classifing the news into different categories
 
-[![codecov](https://codecov.io/gh/samplepython/NewsClassifier/branch/main/graph/badge.svg?token=499Z3CTJDZ)](https://codecov.io/gh/samplepython/NewsClassifier)
+[![codecov](https://codecov.io/gh/samplepython/NewsClassifier/branch/main/graph/badge.svg?token=8b0fea3b-3b4e-4864-b618-21b1518ddeea)](https://codecov.io/gh/samplepython/NewsClassifier)
 
 
 Please find the Milestone report and the highlevel architecture documents in the documents/week1 folder.
